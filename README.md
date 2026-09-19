@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Manufacturing-Analytics-Platform?style=flat-square" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Manufacturing-Analytics-Platform?style=flat-square" alt="GitHub_Stars" />
   <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Manufacturing-Analytics-Platform?style=flat-square" alt="GitHub Forks" />
   <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Manufacturing-Analytics-Platform?style=flat-square" alt="License" />
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -61,9 +61,9 @@ Below is a comparative, sorted list of top SaaS Manufacturing Analytics platform
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated list of open-source projects, tools, and industrial IoT building blocks for manufacturing analytics, sorted by **GitHub Stars** (descending):
+Below is a curated list of open-source projects, tools, and industrial IoT building blocks for manufacturing analytics, sorted by **GitHub_Stars** (descending):
 
-| Project 🛠️ | Description 📝 | GitHub Stars ⭐ |
+| Project 🛠️ | Description 📝 | GitHub_Stars ⭐ |
 | :--- | :--- | :--- |
 | **[Prometheus Stacks](https://github.com/prometheus/prometheus)** | Open metrics collection, alerting, and time-series engine adapted for IIoT telemetry & plant dashboards. | [![Prometheus Stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social&color=white)](https://github.com/prometheus/prometheus/stargazers) |
 | **[ERPNext Manufacturing](https://github.com/frappe/erpnext)** | Open-source ERP featuring production scheduling, work orders, shop-floor analytics, and custom KPI reporting. | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) |
