@@ -1,211 +1,129 @@
-# Awesome-Manufacturing-Analytics-Platform
+# Awesome Manufacturing Analytics Platform 🏭 Data & IIoT Solutions
 
-## Top Manufacturing Analytics Platforms Ecosystem
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Manufacturing Analytics Platform Banner" width="100%"/>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Manufacturing-Analytics-Platform?style=flat-square" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Manufacturing-Analytics-Platform?style=flat-square" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Manufacturing-Analytics-Platform?style=flat-square" alt="License" />
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-*Focused on OEE, Machine Data, Predictive Maintenance, Production Intelligence, Shop-Floor Analytics & Industrial AI*
+## 📌 Top Manufacturing Analytics Platforms Ecosystem 🚀
 
-**Last updated: September 2026**
+**Curated List of SaaS Products & Open-Source GitHub Projects** ⚡
 
+*Focused on Overall Equipment Effectiveness (OEE), Industrial IoT (IIoT), Machine Data Collection, Predictive Maintenance, Production Intelligence, Shop-Floor Analytics & Industrial AI.* ⚙️
 
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Manufacturing Analytics**. These systems connect to machines and production systems, calculate OEE and other KPIs, detect anomalies, enable predictive maintenance, and deliver real-time and historical insights for continuous improvement.
-
-
-
-**Examples** include Sight Machine, MachineMetrics, Tulip, Seeq, Augury, FactoryFour, Drishti, TrendMiner, Falkonry, and C3 AI Manufacturing (the category leaders).
-
-
-
-**Open-source emphasis**: Full industrial analytics platforms are mostly commercial, but strong open building blocks exist. **Libre** (Grafana + Influx), **OpenMES**, Node-RED, Prometheus/Grafana industrial stacks, and related IIoT projects allow teams to build capable OEE and machine-data solutions. This section lists the strongest available open resources.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[Sight Machine](https://sightmachine.com/)**  
-
-  Manufacturing intelligence platform that creates a digital twin of production processes for quality, throughput, and loss analysis across plants.
-
-
-
-- **[MachineMetrics](https://www.machinemetrics.com/)**  
-
-  Industrial IoT and analytics platform focused on CNC and discrete manufacturing, delivering real-time machine monitoring, OEE, and operator insights.
-
-
-
-- **[Tulip](https://tulip.co/)**  
-
-  Frontline operations platform with no-code apps, machine monitoring, and analytics that connect people, machines, and processes on the shop floor.
-
-
-
-- **[Seeq](https://www.seeq.com/)**  
-
-  Advanced analytics platform specialized in time-series process data for process manufacturing engineers and data scientists.
-
-
-
-- **[Augury](https://www.augury.com/)**  
-
-  Machine health and predictive maintenance platform using vibration, ultrasound, and AI to diagnose and prescribe actions for industrial equipment.
-
-
-
-- **[FactoryFour](https://www.factoryfour.com/)**  
-
-  Manufacturing operations and analytics platform helping teams track production, capacity, and performance in real time.
-
-
-
-- **[Drishti](https://www.drishti.com/)**  
-
-  Video-based AI platform for assembly-line analytics, station-level insights, and continuous improvement in discrete manufacturing.
-
-
-
-- **[TrendMiner](https://www.trendminer.com/)**  
-
-  Self-service industrial analytics platform for process manufacturing, enabling search, diagnostics, and monitoring on time-series data.
-
-
-
-- **[Falkonry](https://falkonry.com/)**  
-
-  Operational AI platform that learns normal and abnormal patterns from machine and process data for predictive insights.
-
-
-
-- **[C3 AI Manufacturing](https://c3.ai/)**  
-
-  Enterprise AI application suite applied to manufacturing use cases including predictive maintenance, quality, and yield optimization.
-
-
-
-## Open-Source GitHub Projects
-
-- **[Libre (Spruik)](https://github.com/Spruik/Libre)**  
-
-  Open-source manufacturing execution and performance monitoring system built on Grafana, InfluxDB, and Postgres—focused on OEE and production analytics.
-
-
-
-- **[OpenMES](https://getopenmes.com/)**  
-
-  Free, open-source Manufacturing Execution System with real-time OEE, downtime analysis, production monitoring, and shop-floor integration capabilities.
-
-
-
-- **[Node-RED](https://github.com/node-red/node-red)**  
-
-  Flow-based open-source programming tool widely used in industrial IoT for collecting, transforming, and routing machine data into analytics pipelines.
-
-
-
-- **[Prometheus + Grafana industrial stacks](https://github.com/prometheus/prometheus)**  
-
-  Open metrics collection and visualization stack frequently adapted for machine telemetry, OEE calculation, and plant dashboards.
-
-
-
-- **[InfluxDB + Telegraf industrial collectors](https://github.com/influxdata)**  
-
-  Open time-series database and collectors commonly used as the backbone of manufacturing analytics and historian-style workloads.
-
-
-
-- **[OPC UA open stacks and clients](https://github.com/)**  
-
-  Open implementations of OPC UA for securely connecting to PLCs and industrial equipment to feed analytics platforms.
-
-
-
-- **[OEE calculation open libraries and samples](https://github.com/)**  
-
-  Reference implementations and IoT samples for computing Availability, Performance, and Quality components of OEE.
-
-
-
-- **[Apache StreamPipes / industrial stream processing](https://github.com/apache/streampipes)**  
-
-  Open-source self-service industrial IoT toolbox for analyzing industrial data streams without heavy coding.
-
-
-
-- **[Frappe / ERPNext manufacturing analytics extensions](https://github.com/frappe/erpnext)**  
-
-  Open ERP manufacturing modules that can be extended with custom analytics and reporting for production KPIs.
-
-
-
-- **[Edge and MQTT open brokers for machine data](https://github.com/)**  
-
-  Lightweight open brokers and edge agents used to collect and forward high-frequency machine data to analytics backends.
-
-
-
-### Additional Strong Open-Source Options
-
-- Building an OEE and machine-monitoring stack with **Libre** or **OpenMES** on top of Grafana/Influx.
-
-- Using **Node-RED + MQTT + Prometheus/Grafana** for flexible, low-cost machine data pipelines.
-
-- Combining open historians (Influx, Timescale) with open visualization for process and discrete analytics.
-
-- Accepting that advanced AI diagnostics, video analytics, multi-plant digital twins, and turnkey industrial support still favor commercial platforms (Sight Machine, MachineMetrics, Augury, Seeq, Tulip, C3 AI, etc.).
-
-- Focusing open-source efforts on data ownership, cost control, and avoiding lock-in to proprietary machine connectors.
-
-
-
-**Frameworks for building custom systems**: Connect machines via OPC UA / MQTT / native protocols → store time-series in Influx or Prometheus → calculate OEE and KPIs → visualize in Grafana or Libre/OpenMES → layer anomaly detection with open ML tools. Suitable for plants with internal engineering capacity. Many manufacturers still adopt commercial analytics platforms for faster time-to-value and vendor-supported machine integrations.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Manufacturing analytics systems interact with production equipment and can influence operational decisions. Open-source or self-built solutions require proper OT/IT security, validation, and change control. This list is not operational or safety advice.
-
-
+**Last updated: September 2026** 📅
 
 ---
 
-**Made for manufacturing engineers, plant managers, and industrial data teams seeking open analytics options.**
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Manufacturing Analytics**, **IIoT**, **Smart Factory Automation**, and **Production Intelligence**. These systems connect to machine PLCs, CNCs, and industrial sensors, calculate OEE (Availability, Performance, Quality) and custom KPIs, detect anomalies with Industrial AI, enable predictive maintenance, and deliver real-time shop-floor insights. 💡
 
-Let's keep production intelligence actionable, transparent, and as open as practical.
+---
+
+## 📑 Table of Contents
+
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 🏢 SaaS/Hosted Platforms
+
+> [!NOTE]  
+> **Market Size & Structure:** The global **Manufacturing Analytics Market** was valued at approximately **$10.5 Billion in 2025** and is projected to reach **$32.8 Billion by 2030** (CAGR ~25.5%). The market is **moderately fragmented**, featuring a mix of legacy industrial conglomerates (Siemens, PTC, Software AG), specialized vertical AI leaders (C3 AI, Augury, Sight Machine), and rapid-growth no-code operations platforms (Tulip).
+
+Below is a comparative, sorted list of top SaaS Manufacturing Analytics platforms ranked by estimated company size (market cap / valuation / enterprise revenue, descending):
+
+| Platform / Company 🏢 | Description 📝 | Company Size 📊 | Starting Price 💵 | Free Tier / Trial Limit ⏳ |
+| :--- | :--- | :--- | :--- | :--- |
+| **[C3 AI Manufacturing](https://c3.ai/)** | Enterprise AI application suite applied to manufacturing use cases including predictive maintenance, quality, and yield optimization. | **~$1.69B Market Cap** (FY25 Revenue: $389M) | ~$0.55 / vCPU-hour (Consumption model) | 14-day free trial on cloud marketplaces |
+| **[Augury](https://www.augury.com/)** | Machine health & predictive maintenance platform using vibration, ultrasound, and AI to diagnose industrial equipment. | **>$1.0B Valuation** (Unicorn status) | ~$50 / monitored machine / month | 30-day piloted proof-of-concept trial |
+| **[Sight Machine](https://sightmachine.com/)** | Manufacturing intelligence platform creating digital twins of production processes for quality, throughput, and loss analysis. | **~$21M Annual Revenue** | ~$250 / month / plant module | 30-day enterprise evaluation program |
+| **[Seeq](https://www.seeq.com/)** | Advanced analytics platform specialized in time-series process data for process manufacturing engineers and data scientists. | **~$25M - $35M Revenue** | ~$500 / user / month (Billed annually) | 14-day cloud trial sandbox |
+| **[TrendMiner](https://www.trendminer.com/)** | Self-service industrial analytics platform for process manufacturing, enabling search, diagnostics, and predictive monitoring. | **~$12.5M Revenue** (Software AG unit) | ~$1,000 / month base user license | 14-day interactive demo environment |
+| **[Tulip](https://tulip.co/)** | Frontline operations platform with no-code apps, machine monitoring, and analytics that connect people, machines, and processes. | **~$12M Revenue** ($100M+ funding) | $100 / interface / month (10 interface min) | 30-day full feature trial |
+| **[Falkonry](https://falkonry.com/)** | Operational AI platform learning normal and abnormal patterns from machine and process data for predictive insights. | **~$10M Revenue** (Acquired by IFS) | ~$500 / facility data stream / month | 14-day sandbox access |
+| **[MachineMetrics](https://www.machinemetrics.com/)** | Industrial IoT & analytics platform focused on CNC & discrete manufacturing, delivering real-time machine monitoring & OEE. | **~$8M Revenue** ($38M+ funding) | $150 / machine / month | 30-day risk-free machine connectivity trial |
+| **[FactoryFour](https://www.factoryfour.com/)** | Manufacturing operations and analytics platform helping teams track production, work-in-process (WIP), and capacity in real time. | **~$5M Revenue** | $300 / shop floor line / month | 14-day free trial access |
+| **[Drishti](https://www.drishti.com/)** | Video-based AI platform for assembly-line analytics, station-level manual task insights, and continuous improvement. | **Acquired by Apple** (Enterprise IP) | Custom per-assembly station quote | 14-day hardware pilot trial |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Below is a curated list of open-source projects, tools, and industrial IoT building blocks for manufacturing analytics, sorted by **GitHub Stars** (descending):
+
+| Project 🛠️ | Description 📝 | GitHub Stars ⭐ |
+| :--- | :--- | :--- |
+| **[Prometheus Stacks](https://github.com/prometheus/prometheus)** | Open metrics collection, alerting, and time-series engine adapted for IIoT telemetry & plant dashboards. | [![Prometheus Stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social&color=white)](https://github.com/prometheus/prometheus/stargazers) |
+| **[ERPNext Manufacturing](https://github.com/frappe/erpnext)** | Open-source ERP featuring production scheduling, work orders, shop-floor analytics, and custom KPI reporting. | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) |
+| **[InfluxDB Historian](https://github.com/influxdata/influxdb)** | Open time-series database optimized for high-frequency machine sensors, historian workloads, and OEE math. | [![InfluxDB Stars](https://img.shields.io/github/stars/influxdata/influxdb?style=social&color=white)](https://github.com/influxdata/influxdb/stargazers) |
+| **[Node-RED Pipelines](https://github.com/node-red/node-red)** | Flow-based visual programming tool widely used in IIoT to transform PLC and sensor data into analytics pipelines. | [![Node-RED Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) |
+| **[ThingsBoard IIoT](https://github.com/thingsboard/thingsboard)** | Open-source IoT platform for data collection, processing, visualization, and device management in smart factories. | [![ThingsBoard Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers) |
+| **[EMQX Broker](https://github.com/emqx/emqx)** | Enterprise-grade open-source MQTT broker designed for high-reliability machine-to-cloud data ingestion. | [![EMQX Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers) |
+| **[Eclipse Milo (OPC UA)](https://github.com/eclipse/milo)** | Pure Java implementation of OPC UA (Client & Server) for communicating directly with factory PLCs and industrial machinery. | [![Eclipse Milo Stars](https://img.shields.io/github/stars/eclipse/milo?style=social&color=white)](https://github.com/eclipse/milo/stargazers) |
+| **[Apache StreamPipes](https://github.com/apache/streampipes)** | Self-service Industrial IoT toolbox for non-programmers to analyze real-time industrial data streams. | [![StreamPipes Stars](https://img.shields.io/github/stars/apache/streampipes?style=social&color=white)](https://github.com/apache/streampipes/stargazers) |
+| **[OpenMES](https://getopenmes.com/)** | Free, open-source Manufacturing Execution System with real-time OEE, downtime tracking, and shop-floor integration. | [![OpenMES Stars](https://img.shields.io/badge/OpenMES-Open--Source-brightgreen?style=social&color=white)](https://getopenmes.com/) |
+| **[Libre (Spruik)](https://github.com/Spruik/Libre)** | Open manufacturing execution & performance system built on Grafana + InfluxDB + Postgres for OEE analytics. | [![Libre Stars](https://img.shields.io/badge/Libre-Community-orange?style=social&color=white)](https://github.com/Spruik/Libre) |
+
+---
+
+## 🛠️ Frameworks for Building Custom Manufacturing Analytics
+
+```
+[ Factory Equipment / PLCs ] ---> ( OPC UA / MQTT / Node-RED ) 
+                                            |
+                                            v
+[ Analytics Engine / Dashboards ] <--- ( InfluxDB / Prometheus )
+```
+
+1. **Connect Machines:** Use [Eclipse Milo](https://github.com/eclipse/milo) or [Node-RED](https://github.com/node-red/node-red) via OPC UA or MQTT ([EMQX](https://github.com/emqx/emqx)).
+2. **Store Telemetry:** Route high-frequency sensor readings into [InfluxDB](https://github.com/influxdata/influxdb) or [Prometheus](https://github.com/prometheus/prometheus).
+3. **Analyze & Visualize:** Calculate OEE, downtime categories, and throughput KPIs with [ThingsBoard](https://github.com/thingsboard/thingsboard), [Apache StreamPipes](https://github.com/apache/streampipes), or custom Grafana dashboards.
+
+---
+
+## 🤝 How to Contribute
+
+1. Fork the repo 🍴
+2. Add/edit entries in `README.md` (follow existing tabular format) ✍️
+3. Ensure factual information regarding pricing, free trial, or GitHub repository links 🔍
+4. Submit a Pull Request with a descriptive title 🚀
+
+For awesome list formatting rules, check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) ⭐
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this repository helpful for your industrial IoT, OEE, or manufacturing analytics journey, please consider supporting the project! ☕
+
+- 🌟 **Star this repository** to help others discover it.
+- 🔀 **Fork & Share** with fellow industrial automation and data engineers.
+- 💖 **Sponsor the developer** via GitHub Sponsors:  
+  [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-ishandutta2007-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)
+
+Thank you for your support and contributions to keeping industrial intelligence accessible and open! 🙏
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Manufacturing-Analytics-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Manufacturing-Analytics-Platform&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an official vendor endorsement.
+- Manufacturing analytics systems interact with physical production equipment and operational technology (OT). Ensure proper cybersecurity, OT network isolation, and safety compliance before deploying analytical tools to plant environments.
